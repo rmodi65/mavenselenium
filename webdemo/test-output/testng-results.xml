@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34891" started-at="2020-06-03T13:27:44Z" finished-at="2020-06-03T13:28:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34891" started-at="2020-06-03T13:27:44Z" finished-at="2020-06-03T13:28:19Z">
+      <class name="com.webdemo.VerifyLogin">
+        <test-method status="PASS" signature="automationTest1()[pri:0, instance:com.webdemo.VerifyLogin@724af044]" name="automationTest1" duration-ms="7488" started-at="2020-06-03T13:27:44Z" finished-at="2020-06-03T13:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTest1 -->
+        <test-method status="PASS" signature="automationTest2()[pri:0, instance:com.webdemo.VerifyLogin@724af044]" name="automationTest2" duration-ms="5958" started-at="2020-06-03T13:27:51Z" finished-at="2020-06-03T13:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTest2 -->
+        <test-method status="PASS" signature="automationTest3()[pri:0, instance:com.webdemo.VerifyLogin@724af044]" name="automationTest3" duration-ms="5760" started-at="2020-06-03T13:27:57Z" finished-at="2020-06-03T13:28:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTest3 -->
+        <test-method status="PASS" signature="automationTest4()[pri:0, instance:com.webdemo.VerifyLogin@724af044]" name="automationTest4" duration-ms="6056" started-at="2020-06-03T13:28:03Z" finished-at="2020-06-03T13:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTest4 -->
+        <test-method status="PASS" signature="automationTest5()[pri:0, instance:com.webdemo.VerifyLogin@724af044]" name="automationTest5" duration-ms="5928" started-at="2020-06-03T13:28:09Z" finished-at="2020-06-03T13:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTest5 -->
+        <test-method status="PASS" signature="automationTest6()[pri:0, instance:com.webdemo.VerifyLogin@724af044]" name="automationTest6" duration-ms="3636" started-at="2020-06-03T13:28:15Z" finished-at="2020-06-03T13:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTest6 -->
+      </class> <!-- com.webdemo.VerifyLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
